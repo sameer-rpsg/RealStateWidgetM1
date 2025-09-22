@@ -431,7 +431,7 @@ const handleCollapse = () => {
 
 
   return (
-    <div className={styles.wrapper} style={{backgroundImage:"url(https://www.datocms-assets.com/143478/1743156408-gr-hero.jpg?auto=format&fit=max&h=1920&q=85&w=1920)"}}>
+    <div className={styles.wrapper} style={{backgroundImage:"url(https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Farticle%2F2025-05-23T08%253A56%253A18.616Z-Untitled%2520design%2520%25285%2529.jpg&w=3840&q=75)"}}>
      {/* <div className={styles.boxImgCntr}>
       <img className={styles.boxImg} src="https://www.datocms-assets.com/143478/1743156408-gr-hero.jpg?auto=format&fit=max&h=1920&q=85&w=1920" alt="" /></div> */}
       <div className={styles.box} ref={containerRef}>
@@ -472,7 +472,7 @@ const handleCollapse = () => {
                   <div className={styles.media_fill}>
                     <figure>
                       <img
-                        src="https://images.unsplash.com/photo-1716547286289-3e650d7bdf7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHVuc3BhbHNofGVufDB8fDB8fHww"
+                        src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-05-23T08%253A55%253A55.550Z-1.jpg&w=3840&q=75"
                         alt="Floor 1"
                       />
                     </figure>
